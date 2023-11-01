@@ -7,7 +7,7 @@ body {
     background-image: url("../Images/Bg.png");
 }
 
-.outer-conatiner {
+.outer-container {
     background-size: cover;
     background-position: center;
     max-width: 100%;
