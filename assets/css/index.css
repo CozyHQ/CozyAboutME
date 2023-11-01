@@ -15,7 +15,7 @@ body::before {
     right: 0;
     bottom: 0;
     left: 0;
-    background-color: rgba(255, 255, 255, 0.5); /* 0.5 represents 50% transparency */
+    background-color: rgba(0, 0, 0, 0.5); /* 0.5 represents 50% transparency */
     z-index: -1; /* Place the overlay behind the content */
 }
 
